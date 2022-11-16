@@ -25,6 +25,7 @@
 - [Flowable learn](https://github.com/Vincent-Vic/flowable-learn)
 - [quartz-learn learn](https://github.com/Vincent-Vic/quartz-learn)
 - [flowable learn](https://github.com/Vincent-Vic/flowable-learn)
+- [GO IM](https://github.com/Vincent-Vic/go-im)
 
 <!-- BLOG-POST-LIST:END -->
 
