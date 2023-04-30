@@ -9,12 +9,14 @@
 
 👨🏽‍💻 &nbsp;**我的项目**
 <!-- BLOG-POST-LIST:START -->
+[![快速RBAC开发框架](https://github-readme-stats.vercel.app/api/pin/?username=Vincent-Vic&repo=meshed-cloud)](https://github.com/meshed-cloud/meshed-cloud)
+[![IOC 手写学习](https://github-readme-stats.vercel.app/api/pin/?username=Vincent-Vic&repo=spring-mini)](https://github.com/Vincent-Vic/spring-mini)
 [![快速RBAC开发框架](https://github-readme-stats.vercel.app/api/pin/?username=Vincent-Vic&repo=flowboot)](https://github.com/Vincent-Vic/flowboot)
 [![Elastic-job Starter](https://github-readme-stats.vercel.app/api/pin/?username=Vincent-Vic&repo=elastic-job-spring-boot-starter)](https://github.com/Vincent-Vic/elastic-job-spring-boot-starter)
 [![流程设计器 antdv](https://github-readme-stats.vercel.app/api/pin/?username=Vincent-Vic&repo=workflow-bpmn-modeler-antdv)](https://github.com/Vincent-Vic/workflow-bpmn-modeler-antdv)
 [![spring-cloud-alibaba 学习项目](https://github-readme-stats.vercel.app/api/pin/?username=Vincent-Vic&repo=spring-cloud-alibaba-learn)](https://github.com/Vincent-Vic/spring-cloud-alibaba-learn)
 [![flowable 工作流学习](https://github-readme-stats.vercel.app/api/pin/?username=Vincent-Vic&repo=flowable-learn)](https://github.com/Vincent-Vic/flowable-learn)
-[![IOC 手写学习](https://github-readme-stats.vercel.app/api/pin/?username=Vincent-Vic&repo=spring-mini)](https://github.com/Vincent-Vic/spring-mini)
+
 
 
 <!-- BLOG-POST-LIST:END -->
@@ -31,7 +33,7 @@
 
 📊 &nbsp;**关于我的Github**
 
-![Vincent-Vic](https://github-readme-stats.vercel.app/api?username=Vincent-Vic&count_private=true&&hide=contribs,prs,issues)
+![Vincent-Vic](https://github-readme-stats.vercel.app/api?username=Vincent-Vic&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Vic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
