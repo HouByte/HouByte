@@ -8,7 +8,7 @@
 - 🌱 &nbsp;我目前在学习 Spring Cloud Alibaba, Go
 - 📫 &nbsp;如果有什么好的建议，可以通过邮箱告诉我: <a rel="me" href="mailto:hougq.rd@gmail.com">hougq.rd@gmail.com</a>
 - 👨‍💻 &nbsp;正在研发的微服务辅组研发平台项目  [Meshed Cloud](https://github.com/meshed-cloud) 
-- ☀️ &nbsp;我的[Gitee](https://gitee.com/Vincent-Vic)
+- ☀️ &nbsp;我的[Gitee](https://gitee.com/HouByte)
 
 👨🏽‍💻 &nbsp;**我的项目**
 <!-- BLOG-POST-LIST:START -->
@@ -25,20 +25,20 @@
 <!-- BLOG-POST-LIST:END -->
 📕 &nbsp;**我的笔记**
 <!-- BLOG-POST-LIST:START -->
-- [Spring Cloud Alibaba 个人学习笔记](https://github.com/Vincent-Vic/spring-cloud-alibaba-learn)
-- [ElasticSearch learn](https://github.com/Vincent-Vic/elastic-search-learn)
-- [Flowable learn](https://github.com/Vincent-Vic/flowable-learn)
-- [quartz-learn learn](https://github.com/Vincent-Vic/quartz-learn)
-- [flowable learn](https://github.com/Vincent-Vic/flowable-learn)
-- [GO IM](https://github.com/Vincent-Vic/go-im)
+- [Spring Cloud Alibaba 个人学习笔记](https://github.com/HouByte/spring-cloud-alibaba-learn)
+- [ElasticSearch learn](https://github.com/HouByte/elastic-search-learn)
+- [Flowable learn](https://github.com/HouByte/flowable-learn)
+- [quartz-learn learn](https://github.com/HouByte/quartz-learn)
+- [flowable learn](https://github.com/HouByte/flowable-learn)
+- [GO IM](https://github.com/HouByte/go-im)
 
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**关于我的Github**
 
-![Vincent-Vic](https://github-readme-stats.vercel.app/api?username=Vincent-Vic&count_private=true)
+![HouByte](https://github-readme-stats.vercel.app/api?username=HouByte&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Vic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HouByte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
