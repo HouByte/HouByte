@@ -5,10 +5,11 @@
 这是我学习、分享、以及倒腾开发技术的地方 :rofl:
 
 - 🔭 &nbsp;我目前在做一些很有意思的事情 :wink:
-- 🌱 &nbsp;我目前在学习 Spring Cloud Alibaba, Go
+- 🌱 &nbsp;我目前在学习 Spring Cloud Alibaba
 - 📫 &nbsp;如果有什么好的建议，可以通过邮箱告诉我: <a rel="me" href="mailto:hougq.rd@gmail.com">hougq.rd@gmail.com</a>
 - 👨‍💻 &nbsp;正在研发的微服务辅组研发平台项目  [Meshed Cloud](https://github.com/meshed-cloud) 
 - ☀️ &nbsp;我的[Gitee](https://gitee.com/HouByte)
+- 在闭关，没动态
 
 👨🏽‍💻 &nbsp;**我的项目**
 <!-- BLOG-POST-LIST:START -->
