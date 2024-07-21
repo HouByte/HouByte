@@ -1,13 +1,9 @@
 ### 嘿，你好. 我是@HouByte <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-> 历史名称HouByte
-
 这是我学习、分享、以及倒腾开发技术的地方 :rofl:
 
 - 🔭 &nbsp;我目前在做一些很有意思的事情 :wink:
-- 🌱 &nbsp;我目前在学习 Spring Cloud Alibaba
 - 📫 &nbsp;如果有什么好的建议，可以通过邮箱告诉我: <a rel="me" href="mailto:hougq.rd@gmail.com">hougq.rd@gmail.com</a>
-- 👨‍💻 &nbsp;正在研发的微服务辅组研发平台项目  [Meshed Cloud](https://github.com/meshed-cloud) 
 - ☀️ &nbsp;我的[Gitee](https://gitee.com/HouByte)
 - 在闭关，没动态
 
