@@ -2,7 +2,7 @@
 
 后端开发，随便倒腾点东西。
 
-> 代码是写给人看的，顺便让机器跑一下。
+> 让 AI 写代码，我负责背锅。
 
 - 📫 邮箱：[hougq.rd@gmail.com](mailto:hougq.rd@gmail.com)
 - 在闭关，没动态
