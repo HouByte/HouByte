@@ -5,6 +5,6 @@
 > 让 AI 写代码，我在旁边看着。
 
 - 📫 邮箱：[hougq.rd@gmail.com](mailto:hougq.rd@gmail.com)
-- 在闭关，没动态
+- 随缘更新
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HouByte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
