@@ -5,6 +5,7 @@
 > 让 AI 写代码，我在旁边看着。
 
 - 📫 邮箱：[hougq.rd@gmail.com](mailto:hougq.rd@gmail.com)
+- 🧭 导航：[AI 导航页](https://hub.mindctx.com)
 - 随缘更新
 
 ![Top Langs](./profile/top-langs.svg)
